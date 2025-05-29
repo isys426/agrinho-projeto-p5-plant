@@ -1,0 +1,3 @@
+objetivo da criação do jogo; o projeto foi feito com a intenção de mostrar as açõess ilegais e imaturas que são feitas por pesssoas que não tem consciencia de como isso prejudica o meio ambiente e atinge até mesmo os seres humanos pois pescar em momento de reprodução de uma especie do levar a extinção dela, além disso mostramos também as consequencias dessas ações  como as multas e a prisão do individuo.
+como jogar;para mover o barco utilize as setas, depois com a movimentação dela va até os camarões basta só colidir com eles que voce conseguirá pegalos.
+regras;pegue os camarões ate a multa atingir o valor de 10000 reais depois voce sera preso por pesca ilegal.
